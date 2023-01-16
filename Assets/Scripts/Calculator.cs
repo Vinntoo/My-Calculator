@@ -133,6 +133,13 @@ public class Calculator : MonoBehaviour
         InputText.SetText("");
     }
 
+    public void ClickPeriod(string val) 
+    {
+        Debug.Log($" ClickEqual val: {val}");
+        InputText.text = $"{currentInput}" + ".";
+        
+
+    }
 
 
     #endregion Methods
