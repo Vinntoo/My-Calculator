@@ -4,4 +4,4 @@
  All assets were designed by me.
 
 
-** The dot functionality to be implemented soonest**
+** The dot functionality and live calculation display to be implemented soonest**
